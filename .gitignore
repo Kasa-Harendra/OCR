@@ -1,4 +1,45 @@
-__pycache__
-.env
-ai_module/
-data_module/
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Build output directories
+build/
+app/build/
+**/build/
+**/bin/
+**/out/
+
+# Gradle caches
+.gradle/
+**/gradle-app.setting
+!.gradle/wrapper/gradle-wrapper.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration files
+local.properties
+
+# Log files
+*.log
+
+# Android Studio & IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ObjectBox Generated Build Cache
+**/objectbox-models/
+default.json
+ocr.pdf
+scripts/
