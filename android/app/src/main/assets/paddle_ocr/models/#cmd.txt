@@ -1,0 +1,14 @@
+简体中文
+--config_path=models/config_chinese.txt
+
+English
+--config_path=models/config_en.txt
+
+繁體中文
+--config_path=models/config_chinese_cht.txt
+
+日本語
+--config_path=models/config_japan.txt
+
+한국어
+--config_path=models/config_korean.txt
